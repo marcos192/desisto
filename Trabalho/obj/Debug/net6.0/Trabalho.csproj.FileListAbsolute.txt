@@ -1,0 +1,8 @@
+C:\Users\marco\OneDrive\Documentos\TrabalhoVisualStudio\Trabalho\Trabalho\obj\Debug\net6.0\Trabalho.csproj.AssemblyReference.cache
+C:\Users\marco\OneDrive\Documentos\TrabalhoVisualStudio\Trabalho\Trabalho\obj\Debug\net6.0\Trabalho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\Documentos\TrabalhoVisualStudio\Trabalho\Trabalho\obj\Debug\net6.0\Trabalho.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\Documentos\TrabalhoVisualStudio\Trabalho\Trabalho\obj\Debug\net6.0\Trabalho.AssemblyInfo.cs
+C:\Users\marco\OneDrive\Documentos\TrabalhoVisualStudio\Trabalho\Trabalho\obj\Debug\net6.0\Trabalho.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Documentos\TrabalhoVisualStudio\Trabalho\Trabalho\obj\Debug\net6.0\Trabalho.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marco\OneDrive\Documentos\TrabalhoVisualStudio\Trabalho\Trabalho\obj\Debug\net6.0\Trabalho.RazorAssemblyInfo.cache
+C:\Users\marco\OneDrive\Documentos\TrabalhoVisualStudio\Trabalho\Trabalho\obj\Debug\net6.0\Trabalho.RazorAssemblyInfo.cs
